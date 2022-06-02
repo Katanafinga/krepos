@@ -9,6 +9,8 @@ public class Capital {
 		System.out.println("Landi World");
 		System.out.println("Landi World");
 		System.out.println("Landi World");
-		
+		System.out.println("Landi World");
+		System.out.println("Landi World");
+
 	}
 }
