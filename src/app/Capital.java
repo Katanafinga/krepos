@@ -5,5 +5,10 @@ public class Capital {
 		System.out.println("Hello World");
 		System.out.println("Helloeffo World");
 		System.out.println("Landi World");
+		System.out.println("Landi World");
+		System.out.println("Landi World");
+		System.out.println("Landi World");
+		System.out.println("Landi World");
+		
 	}
 }
